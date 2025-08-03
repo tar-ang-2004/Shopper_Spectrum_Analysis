@@ -1,0 +1,28 @@
+
+SHOPPER SPECTRUM - CUSTOMER SEGMENTATION INSIGHTS
+
+Analysis Date: 2025-08-01 18:54:54
+Dataset Period: 2022-12-01 to 2023-12-09
+
+SUMMARY STATISTICS:
+- Total Revenue: $4,396,136.23
+- Total Customers: 4,194
+- Average Customer Value: $1048.20
+- Customer Segments: 2
+- Analysis Period: 373 days
+
+CLUSTER PERFORMANCE:
+
+Cluster 1:
+  - Customers: 1,584 (37.8%)
+  - Revenue: $3,355,149.21 (76.3%)
+  - Avg Recency: 28.8 days
+  - Avg Frequency: 7.7 orders
+  - Avg Monetary: $2118.15
+
+Cluster 0:
+  - Customers: 2,610 (62.2%)
+  - Revenue: $1,040,987.02 (23.7%)
+  - Avg Recency: 131.3 days
+  - Avg Frequency: 1.7 orders
+  - Avg Monetary: $398.85
