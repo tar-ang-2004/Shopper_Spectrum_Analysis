@@ -1,0 +1,17 @@
+{
+  "total_customers": 4194,
+  "total_revenue": 4396136.234000001,
+  "total_orders": 16806,
+  "avg_order_value": 261.5813539212187,
+  "unique_products": 3642,
+  "unique_countries": 37,
+  "analysis_period_days": 373,
+  "date_range": {
+    "start": "2022-12-01",
+    "end": "2023-12-09"
+  },
+  "cluster_info": {
+    "n_clusters": 2,
+    "silhouette_score": 0.31985534741984734
+  }
+}
